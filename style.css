@@ -1,0 +1,6 @@
+#switch_button {
+    border: none;
+    background-color: transparent;
+    color: rgb(255, 107, 67);
+    cursor: pointer;
+  }
